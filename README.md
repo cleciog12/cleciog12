@@ -1,7 +1,7 @@
 #  **Clecio Azevedo**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Ola!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Muito+Prazer%2C+meu+nome+%C3%A9+Clecio+Jose.)](https://git.io/typing-svg)
 
-### Meu nome é Clecio sou de Recife - PE, sou atualmente aluno do curso de ADS na faculdade São Miguel.
+### Meu nome é Clecio sou de Recife - PE, estou atualmente estudando o curso de Analise e Desenvolvimento de Sistemas na faculdade São Miguel.
 
 ## Redes Sociais
 
